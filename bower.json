@@ -1,0 +1,22 @@
+{
+  "name": "angular_directives",
+  "authors": [
+    "Laura Riera <laurariera9@gmail.com>"
+  ],
+  "description": "Custom directives advanced angular",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}
